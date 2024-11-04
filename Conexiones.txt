@@ -1,0 +1,12 @@
+Arduino:
+	0 -> Botón de navegación con resistencia pull-down (Anterior)
+	1 -> Botón de navegación con resistencia pull-down (Siguiente)
+	4 -> Salida del sensor
+	5 -> Botón de interacción con resistencia pull-down
+
+	12 -> Activación del humidificador
+	13 -> Activación del ventilador
+
+LCD:
+	SDA -> 2 (Arduino Leonardo), A4 (Arduino Uno/Nano)
+	SCL -> 3 (Arduino Leonardo), A5 (Arduino Uno/Nano)
