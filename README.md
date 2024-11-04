@@ -1,6 +1,9 @@
 # Monitor T&H (Temperatura y Humedad)
 En esta práctica, ocupamos el sensor de temperatura y humedad DHT11 y una simulación de un programa con el que el usuario puede interactuar a través de 3 pulsadores y una pantalla LCD16x2
 
+![sensor](https://github.com/user-attachments/assets/75ad392b-a032-4614-8df6-c97fbee039fc)
+
+
 Existen 5 modos en el programa
 > - Temperatura
 > - Humedad
