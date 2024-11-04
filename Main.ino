@@ -1,3 +1,7 @@
+// Main.ino
+// Programa principal del montaje de sensor DHT11
+// Marcos Rubiano
+
 #include <DHT.h>
 #include <LiquidCrystal_I2C.h>
 
